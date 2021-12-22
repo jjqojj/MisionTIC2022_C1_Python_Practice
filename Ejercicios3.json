@@ -1,0 +1,51 @@
+{
+	"jadiazcoronado": {
+		"nombres": "Juan Antonio",
+		"apellidos": "Díaz Coronado",
+		"edad": 19,
+		"colombiano": true,
+		"deportes": ["Fútbol", "Ajedrez", "Gimnasia"]
+	},
+	"dmlunasol": {
+		"nombres": "Dorotea Maritza",
+		"apellidos": "Luna Sol",
+		"edad": 25,
+		"colombiano": false,
+		"deportes": ["Baloncesto", "Ajedrez", "Gimnasia"]
+	},
+	"jjqojj": {
+		"nombres": "John Jairo",
+		"apellidos": "Quiroga Orozco",
+		"edad": 32,
+		"colombiano": true,
+		"deportes": ["Fútbol", "E-Sport", "Trekking"]
+	},
+	"bty": {
+		"nombres": "Betty",
+		"apellidos": "Salazar Mayta",
+		"edad": 32,
+		"colombiano": false,
+		"deportes": ["Fútbol", "E-Sport", "Trekking"]
+	},
+	"japonte": {
+		"nombres": "Jairo",
+		"apellidos": "Quiroga Aponte",
+		"edad": 64,
+		"colombiano": true,
+		"deportes": ["Fútbol", "Tejo"]
+	},
+	"gaqo": {
+		"nombres": "Giovanni Agustin",
+		"apellidos": "Quiroga Orozco",
+		"edad": 25,
+		"colombiano": true,
+		"deportes": ["Fútbol", "Baloncesto"]
+	},
+	"bettercallsaul": {
+		"nombres": "Saul",
+		"apellidos": "Goodman",
+		"edad": 54,
+		"colombiano": true,
+		"deportes": ["Fútbol", "Carreras"]
+	}
+}
